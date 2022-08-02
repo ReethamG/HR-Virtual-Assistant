@@ -1,0 +1,5 @@
+Username: Ann_Miller
+Position: Employee
+Monthly salary: $6000.00
+Remaining sick days: 8
+Admin access: false

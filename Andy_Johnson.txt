@@ -1,0 +1,5 @@
+Username: Andy_Johnson
+Position: Manager
+Monthly salary: $9500.00
+Remaining sick days: 10
+Admin access: true

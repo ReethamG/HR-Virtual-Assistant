@@ -1,0 +1,5 @@
+Username: John_Smith
+Position: Employee
+Monthly salary: $5050.00
+Remaining sick days: 7
+Admin access: false

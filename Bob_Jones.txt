@@ -1,0 +1,5 @@
+Username: Bob_Jones
+Position: Employee
+Monthly salary: $8000.00
+Remaining sick days: 5
+Admin access: false
