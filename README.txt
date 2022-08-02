@@ -4,7 +4,7 @@ HOW TO RUN:
    - java HRManager <sudo password> (if you don't have sudo access, don't put anything there)
 
 When you run the program, you will be brought to a login system, which will recognize whether you are a employee (no admin access), or a manager (has admin access).
-  -Enter your username, then your password
+  -Enter your username, then your password (Check passwords through the text files, those are our "databases" for this demo project of HR Virtual Assitant)
 
 
 If you log in as a manager:
